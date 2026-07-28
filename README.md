@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Alonso Almeida - Head of QA @ Bemobi Wave" width="100%"/>
 </p>
 
-<h1 align="center">Hi, I'm Alonso Almeida 👋</h1>
+<h1 align="center">Hi, I'm Alonso "Zero" Almeida 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alonsojrr14/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -72,11 +72,6 @@ I've grown from Trainee to QA Lead, leading teams, defining quality strategies, 
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alonsojrr14&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alonsojrr14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alonsojrr14&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
